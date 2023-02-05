@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <invoiceHeader>
+    <invoiceDate>2001-12-24</invoiceDate>
+    <invoiceNumber>FD2000103</invoiceNumber>
+  </invoiceHeader>
+  <billTo>
+    <name>
+      <title>Ms</title>
+      <first>Uren</first>
+      <last>Cabe</last>
+    </name>
+    <address1>608-6893 Consectetuer Rd.</address1>
+    <address2></address2>
+    <address3></address3>
+    <city>Invercargill</city>
+    <state>SI</state>
+    <zipCode>84747</zipCode>
+    <country>Greece</country>
+    <email>nisl@sitametfaucibus.net</email>
+    <phone>05 87 22 53 11</phone>
+  </billTo>
+  <shipTo>
+    <sameAsBilling>true</sameAsBilling>
+  </shipTo>
+  <shippingData>
+    <shipNumber>1Z093945969988001</shipNumber>
+    <salesRep>Devon Bonilla</salesRep>
+    <shipDate>2002-01-01</shipDate>
+    <shipVia>UPS</shipVia>
+    <terms>Net 30</terms>
+    <dueDate>2002-01-10</dueDate>
+  </shippingData>
+  <notes></notes>
+  <invoiceRows>
+    <productId>1000001105</productId>
+    <description>Noodles - Steamed Chow Mein</description>
+    <quantity>90</quantity>
+    <unitPrice>1.99</unitPrice>
+  </invoiceRows>
+  <invoiceRows>
+    <productId>1000001113</productId>
+    <description>Tea - Honey Green Tea</description>
+    <quantity>75</quantity>
+    <unitPrice>30.72</unitPrice>
+  </invoiceRows>
+  <invoiceRows>
+    <productId>1000001121</productId>
+    <description>Paper Towel Touchless</description>
+    <quantity>195</quantity>
+    <unitPrice>79.70</unitPrice>
+  </invoiceRows>
+</root>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<invoice>
+  <invoice-number>123456</invoice-number>
+  <invoice-date>2022-12-01</invoice-date>
+  <company>
+    <name>Acme Inc.</name>
+    <address>
+      <street>123 Main St.</street>
+      <city>Anytown</city>
+      <state>CA</state>
+      <zip>12345</zip>
+    </address>
+  </company>
+  <customer>
+    <name>John Doe</name>
+    <address>
+      <street>456 Elm St.</street>
+      <city>Sometown</city>
+      <state>NY</state>
+      <zip>67890</zip>
+    </address>
+  </customer>
+  <payment-due-date>2022-12-15</payment-due-date>
+  <items>
+    <item>
+      <description>Item 1</description>
+      <quantity>1</quantity>
+      <unit-price>100.00</unit-price>
+      <amount>100.00</amount>
+    </item>
+    <item>
+      <description>Item 2</description>
+      <quantity>2</quantity>
+      <unit-price>50.00</unit-price>
+      <amount>100.00</amount>
+    </item>
+  </items>
+</invoice>

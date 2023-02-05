@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <invoiceHeader>
+    <invoiceDate>2016-01-20</invoiceDate>
+    <invoiceNumber>FD2000101</invoiceNumber>
+  </invoiceHeader>
+  <billTo>
+    <name>
+      <title>Ms</title>
+      <first>Julia</first>
+      <last>Velandia Guenaga</last>
+    </name>
+    <address1>Calle Azdad No. 1959</address1>
+    <address2></address2>
+    <address3></address3>
+    <city></city>
+    <state>Hato Mayor</state>
+    <zipCode>90319</zipCode>
+    <country>Dominican Republic</country>
+    <phone>061-964-7360</phone>
+    <email></email>
+  </billTo>
+  <shipTo>
+    <sameAsBilling>true</sameAsBilling>
+  </shipTo>
+  <shippingData>
+    <shipNumber>SN000101002</shipNumber>
+    <salesRep>Terry van der Waal</salesRep>
+    <shipDate>2016-01-21</shipDate>
+    <shipVia>Freight</shipVia>
+    <terms>Net 7</terms>
+    <dueDate>2016-01-23</dueDate>
+  </shippingData>
+  <notes></notes>
+  <invoiceRows/>
+</root>

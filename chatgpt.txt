@@ -1,0 +1,7 @@
+Can you create an invoice header in the fo format used by apache fop?
+Do you have any suggestion on how to write the invoice main body?
+Thank you, do you have a suggestion for the invoice footer?
+How would the main document look? Can you add the above pieces as placeholders so I could 
+stitch them together later?
+Can you give me an example of the data document that will be applied to this tranform?
+Seems the template for the customer and company is missing, can you create that as well?
